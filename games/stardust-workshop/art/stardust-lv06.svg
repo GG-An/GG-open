@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='176' height='176' viewBox='0 0 176 176'>
+<defs>
+<radialGradient id='orb' cx='42%' cy='38%' r='72%'>
+<stop offset='0%' stop-color='#85B2F9'/>
+<stop offset='55%' stop-color='#3B82F6'/>
+<stop offset='100%' stop-color='#2858A7'/>
+</radialGradient>
+<radialGradient id='core' cx='45%' cy='40%' r='70%'>
+<stop offset='0%' stop-color='#B0D2FD'/>
+<stop offset='100%' stop-color='#60A5FA'/>
+</radialGradient>
+</defs>
+<circle cx='88' cy='88' r='84' fill='#60A5FA' opacity='0.10'/>
+<circle cx='88' cy='88' r='66' fill='none' stroke='#60A5FA' stroke-opacity='0.35' stroke-width='3'/>
+
+<polygon points='104.0,147.9 57.0,141.7 28.1,104.0 34.3,57.0 72.0,28.1 119.0,34.3 147.9,72.0 141.7,119.0' fill='#3B82F6' fill-opacity='0.22' stroke='#60A5FA' stroke-opacity='0.5' stroke-width='1.5'/>
+<circle cx='88' cy='88' r='48' fill='url(#orb)' stroke='#60A5FA' stroke-opacity='0.8' stroke-width='2'/>
+<line x1='99.9' y1='132.4' x2='68.7' y2='82.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='58.4' y1='123.2' x2='81.3' y2='69.2' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='42.2' y1='84.0' x2='99.6' y2='71.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
+<circle cx='88' cy='88' r='16' fill='url(#core)'/>
+<circle cx='75' cy='73' r='6' fill='#FFFFFF' opacity='0.85'/>
+
+<path d='M64.0,44.0L55.1,47.1L52.0,56.0L48.9,47.1L40.0,44.0L48.9,40.9L52.0,32.0L55.1,40.9Z' fill='#FFFFFF' opacity='0.92'/><path d='M96.0,32.0L88.5,34.5L86.0,42.0L83.5,34.5L76.0,32.0L83.5,29.5L86.0,22.0L88.5,29.5Z' fill='#FFFFFF' opacity='0.74'/>
+</svg>

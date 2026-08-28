@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>我的游戏库 · My Arcade</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="stars" aria-hidden="true"></div>
+
+    <header class="site-header">
+      <h1>🎮 我的车库</h1>
+      <p class="tagline">MY ARCADE · 自制游戏合集</p>
+    </header>
+
+    <main>
+      <section id="grid" class="grid" aria-label="游戏列表"></section>
+    </main>
+
+    <footer class="site-footer">
+      <span id="foot-note">由 ZCode 构建 · 本机运行</span>
+    </footer>
+
+    <!-- 游戏弹层 -->
+    <div id="modal" class="modal" hidden>
+      <div class="modal-backdrop" data-close></div>
+      <div class="modal-body">
+        <div class="modal-bar">
+          <span id="modal-title" class="modal-title">游戏</span>
+          <div class="modal-actions">
+            <a id="modal-newtab" class="modal-btn" href="#" target="_blank" rel="noopener"
+              >↗ 新窗口</a
+            >
+            <button id="modal-fullscreen" class="modal-btn" type="button">⛶ 全屏</button>
+            <button id="modal-close" class="modal-btn modal-close" type="button">✕ 关闭</button>
+          </div>
+        </div>
+        <iframe
+          id="game-frame"
+          class="game-frame"
+          title="游戏窗口"
+          allow="fullscreen; gamepad; autoplay"
+        ></iframe>
+      </div>
+    </div>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>

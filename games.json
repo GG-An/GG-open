@@ -1,0 +1,24 @@
+{
+  "games": [
+    {
+      "id": "stardust-workshop",
+      "title": "星尘工坊",
+      "en": "Stardust Workshop",
+      "genre": "合成放置 · 休闲",
+      "desc": "拖拽两只相同星尘合成更高一级，高级星尘持续产出金币。从星尘碎屑一路合成 12 级传说——银河之心。",
+      "emoji": "✨",
+      "color": "#22d3ee",
+      "cover": "assets/stardust-cover.svg",
+      "path": "games/stardust-workshop/",
+      "saveKey": "stardust-workshop-save-v1",
+      "version": "v0.3.0"
+    }
+  ],
+  "upcoming": [
+    {
+      "title": "？？？",
+      "desc": "下一款游戏筹备中，敬请期待。",
+      "emoji": "🚧"
+    }
+  ]
+}
