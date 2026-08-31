@@ -1,24 +1,26 @@
 <svg xmlns='http://www.w3.org/2000/svg' width='176' height='176' viewBox='0 0 176 176'>
 <defs>
-<radialGradient id='orb' cx='42%' cy='38%' r='72%'>
-<stop offset='0%' stop-color='#FDD777'/>
-<stop offset='55%' stop-color='#FBBF24'/>
-<stop offset='100%' stop-color='#AB8218'/>
+<radialGradient id='orb' cx='40%' cy='36%' r='75%'>
+<stop offset='0%' stop-color='#FDDA80'/>
+<stop offset='52%' stop-color='#FBBF24'/>
+<stop offset='100%' stop-color='#A67E18'/>
 </radialGradient>
 <radialGradient id='core' cx='45%' cy='40%' r='70%'>
-<stop offset='0%' stop-color='#FACF85'/>
+<stop offset='0%' stop-color='#FBD391'/>
 <stop offset='100%' stop-color='#F59E0B'/>
 </radialGradient>
 </defs>
 <circle cx='88' cy='88' r='88' fill='#F59E0B' opacity='0.12'/>
-<circle cx='88' cy='88' r='84' fill='none' stroke='#F59E0B' stroke-opacity='0.35' stroke-width='3'/>
+<circle cx='88' cy='88' r='66' fill='#F59E0B' opacity='0.10'/>
+<ellipse cx='88' cy='88' rx='84' ry='30' fill='none' stroke='#F59E0B' stroke-opacity='0.35' stroke-width='1.5' transform='rotate(-16 88 88)'/>
+<circle cx='88' cy='88' r='80' fill='none' stroke='#F59E0B' stroke-opacity='0.3' stroke-width='2'/>
 
-<polygon points='139.6,151.7 70.4,168.1 14.4,124.1 13.9,53.0 69.2,8.2 138.6,23.5 170.0,87.4' fill='#FBBF24' fill-opacity='0.22' stroke='#F59E0B' stroke-opacity='0.5' stroke-width='1.5'/>
-<polygon points='131.9,47.1 147.4,96.8 118.1,139.9 66.2,143.9 30.7,105.8 38.3,54.3 83.4,28.2' fill='#F59E0B' fill-opacity='0.10' stroke='#F59E0B' stroke-opacity='0.3' stroke-width='1'/>
-<circle cx='88' cy='88' r='70' fill='url(#orb)' stroke='#F59E0B' stroke-opacity='0.8' stroke-width='2'/>
-<line x1='127.6' y1='137.0' x2='60.3' y2='92.2' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='70.6' y1='148.6' x2='68.7' y2='67.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='28.4' y1='108.5' x2='93.5' y2='60.5' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
-<circle cx='88' cy='88' r='24' fill='url(#core)'/>
-<circle cx='72' cy='67' r='9' fill='#FFFFFF' opacity='0.85'/>
+<polygon points='138.3,150.2 70.8,166.1 16.2,123.2 15.7,53.8 69.6,10.1 137.4,25.1 168.0,87.4' fill='#FBBF24' fill-opacity='0.18' stroke='#F59E0B' stroke-opacity='0.45' stroke-width='1.5'/>
+<circle cx='88' cy='88' r='68' fill='url(#orb)' stroke='#F59E0B' stroke-opacity='0.85' stroke-width='2'/>
+<path d='M129.1,138.7 L95.1,152.9 L95.9,106.8 Z' fill='#FCC947' fill-opacity='0.55'/><path d='M95.1,152.9 L58.9,146.4 L84.4,108.1 Z' fill='#D3A01E' fill-opacity='0.55'/><path d='M58.9,146.4 L31.9,121.4 L74.1,103.0 Z' fill='#FCC947' fill-opacity='0.55'/><path d='M31.9,121.4 L22.8,85.8 L68.2,93.1 Z' fill='#D3A01E' fill-opacity='0.55'/><path d='M22.8,85.8 L34.3,50.9 L68.6,81.6 Z' fill='#FCC947' fill-opacity='0.55'/><path d='M34.3,50.9 L62.9,27.7 L75.2,72.1 Z' fill='#D3A01E' fill-opacity='0.55'/><path d='M62.9,27.7 L99.4,23.7 L85.8,67.7 Z' fill='#FCC947' fill-opacity='0.55'/><path d='M99.4,23.7 L132.4,40.1 L97.1,69.7 Z' fill='#D3A01E' fill-opacity='0.55'/><path d='M132.4,40.1 L151.2,71.7 L105.5,77.5 Z' fill='#FCC947' fill-opacity='0.55'/><path d='M151.2,71.7 L150.0,108.5 L108.4,88.7 Z' fill='#D3A01E' fill-opacity='0.55'/><path d='M150.0,108.5 L129.1,138.7 L104.8,99.6 Z' fill='#FCC947' fill-opacity='0.55'/>
+<circle cx='88' cy='88' r='22' fill='url(#core)' stroke='#F8BB54' stroke-opacity='0.6' stroke-width='1.5'/>
+<circle cx='73' cy='70' r='8' fill='#FFFFFF' opacity='0.85'/>
 
-<path d='M49.0,30.0L37.8,33.8L34.0,45.0L30.2,33.8L19.0,30.0L30.2,26.2L34.0,15.0L37.8,26.2Z' fill='#FFFFFF' opacity='0.92'/>
+
+<path d='M51.0,30.0L39.8,33.8L36.0,45.0L32.2,33.8L21.0,30.0L32.2,26.2L36.0,15.0L39.8,26.2Z' fill='#FFFFFF' opacity='0.92'/>
 </svg>

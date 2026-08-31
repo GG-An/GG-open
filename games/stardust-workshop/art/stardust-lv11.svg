@@ -1,24 +1,26 @@
 <svg xmlns='http://www.w3.org/2000/svg' width='176' height='176' viewBox='0 0 176 176'>
 <defs>
-<radialGradient id='orb' cx='42%' cy='38%' r='72%'>
-<stop offset='0%' stop-color='#F38EC0'/>
-<stop offset='55%' stop-color='#EC4899'/>
-<stop offset='100%' stop-color='#A03168'/>
+<radialGradient id='orb' cx='40%' cy='36%' r='75%'>
+<stop offset='0%' stop-color='#F495C4'/>
+<stop offset='52%' stop-color='#EC4899'/>
+<stop offset='100%' stop-color='#9C3065'/>
 </radialGradient>
 <radialGradient id='core' cx='45%' cy='40%' r='70%'>
-<stop offset='0%' stop-color='#FAB9DB'/>
+<stop offset='0%' stop-color='#FAC0DE'/>
 <stop offset='100%' stop-color='#F472B6'/>
 </radialGradient>
 </defs>
 <circle cx='88' cy='88' r='88' fill='#F472B6' opacity='0.12'/>
-<circle cx='88' cy='88' r='84' fill='none' stroke='#F472B6' stroke-opacity='0.35' stroke-width='3'/>
+<circle cx='88' cy='88' r='66' fill='#F472B6' opacity='0.10'/>
+<ellipse cx='88' cy='88' rx='84' ry='30' fill='none' stroke='#F472B6' stroke-opacity='0.35' stroke-width='1.5' transform='rotate(-16 88 88)'/>
+<circle cx='88' cy='88' r='80' fill='none' stroke='#F472B6' stroke-opacity='0.3' stroke-width='2'/>
 <circle cx='88' cy='88' r='88' fill='none' stroke='#F472B6' stroke-opacity='0.25' stroke-width='1.5' stroke-dasharray='4 7'/>
-<polygon points='30.0,146.0 7.9,105.4 11.2,59.3 38.9,22.4 82.2,6.2 127.3,16.0 160.0,48.7 169.8,93.8 153.6,137.1 116.7,164.8 70.6,168.1' fill='#EC4899' fill-opacity='0.22' stroke='#F472B6' stroke-opacity='0.5' stroke-width='1.5'/>
-<polygon points='51.9,40.1 83.5,28.2 116.6,35.2 140.6,59.1 147.9,92.1 136.1,123.8 109.1,144.2 75.4,146.7 45.7,130.6 29.4,100.9 31.7,67.2' fill='#F472B6' fill-opacity='0.10' stroke='#F472B6' stroke-opacity='0.3' stroke-width='1'/>
-<circle cx='88' cy='88' r='70' fill='url(#orb)' stroke='#F472B6' stroke-opacity='0.8' stroke-width='2'/>
-<line x1='43.5' y1='132.5' x2='80.9' y2='60.9' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='26.0' y1='77.1' x2='106.1' y2='66.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='61.4' y1='30.9' x2='115.9' y2='90.6' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
-<circle cx='88' cy='88' r='24' fill='url(#core)'/>
-<circle cx='72' cy='67' r='9' fill='#FFFFFF' opacity='0.85'/>
+<polygon points='31.4,144.6 9.8,105.0 13.0,60.0 40.1,24.0 82.3,8.2 126.3,17.8 158.2,49.7 167.8,93.7 152.0,135.9 116.0,163.0 71.0,166.2' fill='#EC4899' fill-opacity='0.18' stroke='#F472B6' stroke-opacity='0.45' stroke-width='1.5'/>
+<circle cx='88' cy='88' r='68' fill='url(#orb)' stroke='#F472B6' stroke-opacity='0.85' stroke-width='2'/>
+<path d='M41.8,134.2 L27.7,113.0 L71.0,99.3 Z' fill='#EF65A9' fill-opacity='0.55'/><path d='M27.7,113.0 L22.7,88.0 L68.0,92.0 Z' fill='#C63C81' fill-opacity='0.55'/><path d='M22.7,88.0 L27.7,63.0 L68.0,84.0 Z' fill='#EF65A9' fill-opacity='0.55'/><path d='M27.7,63.0 L41.8,41.8 L71.0,76.7 Z' fill='#C63C81' fill-opacity='0.55'/><path d='M41.8,41.8 L63.0,27.7 L76.7,71.0 Z' fill='#EF65A9' fill-opacity='0.55'/><path d='M63.0,27.7 L88.0,22.7 L84.0,68.0 Z' fill='#C63C81' fill-opacity='0.55'/><path d='M88.0,22.7 L113.0,27.7 L92.0,68.0 Z' fill='#EF65A9' fill-opacity='0.55'/><path d='M113.0,27.7 L134.2,41.8 L99.3,71.0 Z' fill='#C63C81' fill-opacity='0.55'/><path d='M134.2,41.8 L148.3,63.0 L105.0,76.7 Z' fill='#EF65A9' fill-opacity='0.55'/><path d='M148.3,63.0 L153.3,88.0 L108.0,84.0 Z' fill='#C63C81' fill-opacity='0.55'/><path d='M153.3,88.0 L148.3,113.0 L108.0,92.0 Z' fill='#EF65A9' fill-opacity='0.55'/><path d='M148.3,113.0 L134.2,134.2 L105.0,99.3 Z' fill='#C63C81' fill-opacity='0.55'/><path d='M134.2,134.2 L113.0,148.3 L99.3,105.0 Z' fill='#EF65A9' fill-opacity='0.55'/><path d='M113.0,148.3 L88.0,153.3 L92.0,108.0 Z' fill='#C63C81' fill-opacity='0.55'/><path d='M88.0,153.3 L63.0,148.3 L84.0,108.0 Z' fill='#EF65A9' fill-opacity='0.55'/><path d='M63.0,148.3 L41.8,134.2 L76.7,105.0 Z' fill='#C63C81' fill-opacity='0.55'/>
+<circle cx='88' cy='88' r='22' fill='url(#core)' stroke='#F79CCC' stroke-opacity='0.6' stroke-width='1.5'/>
+<circle cx='73' cy='70' r='8' fill='#FFFFFF' opacity='0.85'/>
+<circle cx='17.5' cy='46.9' r='3.5' fill='#F8AAD3' opacity='0.9'/><circle cx='163.0' cy='54.0' r='3.5' fill='#F8AAD3' opacity='0.9'/><circle cx='82.7' cy='163.5' r='3.5' fill='#F8AAD3' opacity='0.9'/>
 
-<path d='M49.0,30.0L37.8,33.8L34.0,45.0L30.2,33.8L19.0,30.0L30.2,26.2L34.0,15.0L37.8,26.2Z' fill='#FFFFFF' opacity='0.92'/><path d='M90.5,18.0L81.2,21.2L78.0,30.5L74.8,21.2L65.5,18.0L74.8,14.8L78.0,5.5L81.2,14.8Z' fill='#FFFFFF' opacity='0.74'/><path d='M132.0,30.0L124.5,32.5L122.0,40.0L119.5,32.5L112.0,30.0L119.5,27.5L122.0,20.0L124.5,27.5Z' fill='#FFFFFF' opacity='0.56'/>
+<path d='M51.0,30.0L39.8,33.8L36.0,45.0L32.2,33.8L21.0,30.0L32.2,26.2L36.0,15.0L39.8,26.2Z' fill='#FFFFFF' opacity='0.92'/><path d='M92.5,18.0L83.2,21.2L80.0,30.5L76.8,21.2L67.5,18.0L76.8,14.8L80.0,5.5L83.2,14.8Z' fill='#FFFFFF' opacity='0.74'/><path d='M134.0,30.0L126.5,32.5L124.0,40.0L121.5,32.5L114.0,30.0L121.5,27.5L124.0,20.0L126.5,27.5Z' fill='#FFFFFF' opacity='0.56'/>
 </svg>
