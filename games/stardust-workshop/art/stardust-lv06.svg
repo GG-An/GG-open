@@ -10,14 +10,15 @@
 <stop offset='100%' stop-color='#60A5FA'/>
 </radialGradient>
 </defs>
-<circle cx='88' cy='88' r='84' fill='#60A5FA' opacity='0.10'/>
-<circle cx='88' cy='88' r='66' fill='none' stroke='#60A5FA' stroke-opacity='0.35' stroke-width='3'/>
+<circle cx='88' cy='88' r='86' fill='#60A5FA' opacity='0.12'/>
+<circle cx='88' cy='88' r='78' fill='none' stroke='#60A5FA' stroke-opacity='0.35' stroke-width='3'/>
 
-<polygon points='104.0,147.9 57.0,141.7 28.1,104.0 34.3,57.0 72.0,28.1 119.0,34.3 147.9,72.0 141.7,119.0' fill='#3B82F6' fill-opacity='0.22' stroke='#60A5FA' stroke-opacity='0.5' stroke-width='1.5'/>
-<circle cx='88' cy='88' r='48' fill='url(#orb)' stroke='#60A5FA' stroke-opacity='0.8' stroke-width='2'/>
-<line x1='99.9' y1='132.4' x2='68.7' y2='82.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='58.4' y1='123.2' x2='81.3' y2='69.2' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='42.2' y1='84.0' x2='99.6' y2='71.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
-<circle cx='88' cy='88' r='16' fill='url(#core)'/>
-<circle cx='75' cy='73' r='6' fill='#FFFFFF' opacity='0.85'/>
+<polygon points='107.2,159.5 51.0,152.1 16.5,107.2 23.9,51.0 68.8,16.5 125.0,23.9 159.5,68.8 152.1,125.0' fill='#3B82F6' fill-opacity='0.22' stroke='#60A5FA' stroke-opacity='0.5' stroke-width='1.5'/>
+<polygon points='109.1,38.3 138.1,67.8 137.7,109.1 108.2,138.1 66.9,137.7 37.9,108.2 38.3,66.9 67.8,37.9' fill='#60A5FA' fill-opacity='0.10' stroke='#60A5FA' stroke-opacity='0.3' stroke-width='1'/>
+<circle cx='88' cy='88' r='62' fill='url(#orb)' stroke='#60A5FA' stroke-opacity='0.8' stroke-width='2'/>
+<line x1='102.5' y1='142.1' x2='64.9' y2='81.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='52.0' y1='130.9' x2='79.9' y2='65.4' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='32.2' y1='83.1' x2='101.9' y2='68.4' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
+<circle cx='88' cy='88' r='21' fill='url(#core)'/>
+<circle cx='72' cy='69' r='8' fill='#FFFFFF' opacity='0.85'/>
 
-<path d='M64.0,44.0L55.1,47.1L52.0,56.0L48.9,47.1L40.0,44.0L48.9,40.9L52.0,32.0L55.1,40.9Z' fill='#FFFFFF' opacity='0.92'/><path d='M96.0,32.0L88.5,34.5L86.0,42.0L83.5,34.5L76.0,32.0L83.5,29.5L86.0,22.0L88.5,29.5Z' fill='#FFFFFF' opacity='0.74'/>
+<path d='M52.0,30.0L41.6,33.6L38.0,44.0L34.4,33.6L24.0,30.0L34.4,26.4L38.0,16.0L41.6,26.4Z' fill='#FFFFFF' opacity='0.92'/><path d='M91.5,20.0L82.9,22.9L80.0,31.5L77.1,22.9L68.5,20.0L77.1,17.1L80.0,8.5L82.9,17.1Z' fill='#FFFFFF' opacity='0.74'/>
 </svg>

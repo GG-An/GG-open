@@ -10,14 +10,15 @@
 <stop offset='100%' stop-color='#F472B6'/>
 </radialGradient>
 </defs>
-<circle cx='88' cy='88' r='84' fill='#F472B6' opacity='0.10'/>
-<circle cx='88' cy='88' r='66' fill='none' stroke='#F472B6' stroke-opacity='0.35' stroke-width='3'/>
-<circle cx='88' cy='88' r='76' fill='none' stroke='#F472B6' stroke-opacity='0.22' stroke-width='1.5' stroke-dasharray='4 7'/>
-<polygon points='44.2,131.8 27.4,101.2 29.9,66.3 50.8,38.4 83.6,26.2 117.7,33.6 142.4,58.3 149.8,92.4 137.6,125.2 109.7,146.1 74.8,148.6' fill='#EC4899' fill-opacity='0.22' stroke='#F472B6' stroke-opacity='0.5' stroke-width='1.5'/>
-<circle cx='88' cy='88' r='48' fill='url(#orb)' stroke='#F472B6' stroke-opacity='0.8' stroke-width='2'/>
-<line x1='55.5' y1='120.5' x2='82.9' y2='68.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='42.7' y1='80.0' x2='100.9' y2='72.8' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='68.6' y1='46.3' x2='107.9' y2='89.9' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
-<circle cx='88' cy='88' r='16' fill='url(#core)'/>
-<circle cx='75' cy='73' r='6' fill='#FFFFFF' opacity='0.85'/>
+<circle cx='88' cy='88' r='86' fill='#F472B6' opacity='0.12'/>
+<circle cx='88' cy='88' r='78' fill='none' stroke='#F472B6' stroke-opacity='0.35' stroke-width='3'/>
+<circle cx='88' cy='88' r='84' fill='none' stroke='#F472B6' stroke-opacity='0.25' stroke-width='1.5' stroke-dasharray='4 7'/>
+<polygon points='35.7,140.3 15.7,103.7 18.7,62.1 43.7,28.8 82.7,14.2 123.5,23.1 152.9,52.5 161.8,93.3 147.2,132.3 113.9,157.3 72.3,160.3' fill='#EC4899' fill-opacity='0.22' stroke='#F472B6' stroke-opacity='0.5' stroke-width='1.5'/>
+<polygon points='55.5,44.9 84.0,34.2 113.7,40.5 135.3,62.0 141.9,91.7 131.3,120.2 107.0,138.5 76.7,140.8 49.9,126.3 35.3,99.6 37.3,69.3' fill='#F472B6' fill-opacity='0.10' stroke='#F472B6' stroke-opacity='0.3' stroke-width='1'/>
+<circle cx='88' cy='88' r='62' fill='url(#orb)' stroke='#F472B6' stroke-opacity='0.8' stroke-width='2'/>
+<line x1='48.4' y1='127.6' x2='81.9' y2='64.8' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='32.9' y1='78.3' x2='103.5' y2='69.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='64.3' y1='37.2' x2='111.9' y2='90.2' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
+<circle cx='88' cy='88' r='21' fill='url(#core)'/>
+<circle cx='72' cy='69' r='8' fill='#FFFFFF' opacity='0.85'/>
 
-<path d='M64.0,44.0L55.1,47.1L52.0,56.0L48.9,47.1L40.0,44.0L48.9,40.9L52.0,32.0L55.1,40.9Z' fill='#FFFFFF' opacity='0.92'/><path d='M96.0,32.0L88.5,34.5L86.0,42.0L83.5,34.5L76.0,32.0L83.5,29.5L86.0,22.0L88.5,29.5Z' fill='#FFFFFF' opacity='0.74'/><path d='M128.0,44.0L122.0,46.0L120.0,52.0L118.0,46.0L112.0,44.0L118.0,42.0L120.0,36.0L122.0,42.0Z' fill='#FFFFFF' opacity='0.56'/>
+<path d='M52.0,30.0L41.6,33.6L38.0,44.0L34.4,33.6L24.0,30.0L34.4,26.4L38.0,16.0L41.6,26.4Z' fill='#FFFFFF' opacity='0.92'/><path d='M91.5,20.0L82.9,22.9L80.0,31.5L77.1,22.9L68.5,20.0L77.1,17.1L80.0,8.5L82.9,17.1Z' fill='#FFFFFF' opacity='0.74'/><path d='M131.0,30.0L124.3,32.3L122.0,39.0L119.7,32.3L113.0,30.0L119.7,27.7L122.0,21.0L124.3,27.7Z' fill='#FFFFFF' opacity='0.56'/>
 </svg>
