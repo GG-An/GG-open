@@ -30,8 +30,8 @@
   function cardHTML(game) {
     const stats = readSaveStats(game.saveKey);
     const statsHTML = stats
-      ? stats
-      : '<span class="dim">尚未开始 · 点击卡片进入</span>';
+      ? `${stats} · <span class="dim">${game.version || ''}</span>`
+      : `<span class="dim">尚未开始 · 点击卡片进入${game.version ? ' · ' + game.version : ''}</span>`;
     const cover = game.cover
       ? `<div class="card-cover"><img src="${game.cover}" alt=""></div>`
       : `<div class="card-icon">${game.emoji}</div>`;
