@@ -10,15 +10,15 @@
 <stop offset='100%' stop-color='#38BDF8'/>
 </radialGradient>
 </defs>
-<circle cx='88' cy='88' r='86' fill='#38BDF8' opacity='0.12'/>
-<circle cx='88' cy='88' r='78' fill='none' stroke='#38BDF8' stroke-opacity='0.35' stroke-width='3'/>
+<circle cx='88' cy='88' r='88' fill='#38BDF8' opacity='0.12'/>
+<circle cx='88' cy='88' r='84' fill='none' stroke='#38BDF8' stroke-opacity='0.35' stroke-width='3'/>
 
-<polygon points='153.9,121.6 91.9,161.9 25.9,128.3 22.1,54.4 84.1,14.1 150.1,47.7' fill='#38BDF8' fill-opacity='0.22' stroke='#38BDF8' stroke-opacity='0.5' stroke-width='1.5'/>
-<polygon points='139.1,70.4 128.8,123.4 77.7,141.0 36.9,105.6 47.2,52.6 98.3,35.0' fill='#38BDF8' fill-opacity='0.10' stroke='#38BDF8' stroke-opacity='0.3' stroke-width='1'/>
-<circle cx='88' cy='88' r='62' fill='url(#orb)' stroke='#38BDF8' stroke-opacity='0.8' stroke-width='2'/>
-<line x1='137.9' y1='113.4' x2='67.8' y2='101.0' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='95.8' y1='143.5' x2='65.8' y2='78.9' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='47.0' y1='126.2' x2='82.7' y2='64.6' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
-<circle cx='88' cy='88' r='21' fill='url(#core)'/>
-<circle cx='72' cy='69' r='8' fill='#FFFFFF' opacity='0.85'/>
+<polygon points='161.1,125.2 92.3,169.9 19.2,132.7 14.9,50.8 83.7,6.1 156.8,43.3' fill='#38BDF8' fill-opacity='0.22' stroke='#38BDF8' stroke-opacity='0.5' stroke-width='1.5'/>
+<polygon points='144.7,68.5 133.3,127.4 76.6,146.9 31.3,107.5 42.7,48.6 99.4,29.1' fill='#38BDF8' fill-opacity='0.10' stroke='#38BDF8' stroke-opacity='0.3' stroke-width='1'/>
+<circle cx='88' cy='88' r='70' fill='url(#orb)' stroke='#38BDF8' stroke-opacity='0.8' stroke-width='2'/>
+<line x1='144.1' y1='116.6' x2='64.4' y2='103.1' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='96.8' y1='150.4' x2='62.1' y2='77.4' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='41.9' y1='131.0' x2='81.9' y2='60.7' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
+<circle cx='88' cy='88' r='24' fill='url(#core)'/>
+<circle cx='72' cy='67' r='9' fill='#FFFFFF' opacity='0.85'/>
 
-<path d='M52.0,30.0L41.6,33.6L38.0,44.0L34.4,33.6L24.0,30.0L34.4,26.4L38.0,16.0L41.6,26.4Z' fill='#FFFFFF' opacity='0.92'/>
+<path d='M49.0,30.0L37.8,33.8L34.0,45.0L30.2,33.8L19.0,30.0L30.2,26.2L34.0,15.0L37.8,26.2Z' fill='#FFFFFF' opacity='0.92'/>
 </svg>

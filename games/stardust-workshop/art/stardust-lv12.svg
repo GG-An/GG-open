@@ -10,15 +10,15 @@
 <stop offset='100%' stop-color='#FACC15'/>
 </radialGradient>
 </defs>
-<circle cx='88' cy='88' r='86' fill='#FACC15' opacity='0.12'/>
-<circle cx='88' cy='88' r='78' fill='none' stroke='#FACC15' stroke-opacity='0.35' stroke-width='3'/>
-<circle cx='88' cy='88' r='84' fill='none' stroke='#FACC15' stroke-opacity='0.25' stroke-width='1.5' stroke-dasharray='4 7'/>
-<polygon points='25.9,128.3 14.0,88.4 25.6,48.3 56.9,20.8 98.2,14.7 136.2,31.8 158.9,66.8 159.1,108.5 136.7,143.7 98.9,161.2 57.6,155.5' fill='#F8FAFC' fill-opacity='0.22' stroke='#FACC15' stroke-opacity='0.5' stroke-width='1.5'/>
-<polygon points='47.2,52.6 72.9,36.2 103.3,36.2 128.9,52.7 141.5,80.4 137.1,110.5 117.1,133.5 87.9,142.0 58.7,133.4 38.8,110.4 34.6,80.2' fill='#FACC15' fill-opacity='0.10' stroke='#FACC15' stroke-opacity='0.3' stroke-width='1'/>
-<circle cx='88' cy='88' r='62' fill='url(#orb)' stroke='#FACC15' stroke-opacity='0.8' stroke-width='2'/>
-<line x1='41.0' y1='118.5' x2='86.9' y2='64.0' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='36.1' y1='67.0' x2='107.0' y2='73.3' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='75.4' y1='33.4' x2='110.9' y2='95.1' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
-<circle cx='88' cy='88' r='21' fill='url(#core)'/>
-<circle cx='72' cy='69' r='8' fill='#FFFFFF' opacity='0.85'/>
+<circle cx='88' cy='88' r='88' fill='#FACC15' opacity='0.12'/>
+<circle cx='88' cy='88' r='84' fill='none' stroke='#FACC15' stroke-opacity='0.35' stroke-width='3'/>
+<circle cx='88' cy='88' r='88' fill='none' stroke='#FACC15' stroke-opacity='0.25' stroke-width='1.5' stroke-dasharray='4 7'/>
+<polygon points='19.2,132.7 6.0,88.4 18.8,44.0 53.6,13.6 99.3,6.8 141.4,25.8 166.6,64.5 166.8,110.7 142.0,149.7 100.1,169.1 54.3,162.8' fill='#F8FAFC' fill-opacity='0.22' stroke='#FACC15' stroke-opacity='0.5' stroke-width='1.5'/>
+<polygon points='42.7,48.6 71.2,30.4 105.0,30.5 133.4,48.8 147.4,79.6 142.5,113.0 120.4,138.5 87.9,148.0 55.5,138.4 33.4,112.8 28.6,79.4' fill='#FACC15' fill-opacity='0.10' stroke='#FACC15' stroke-opacity='0.3' stroke-width='1'/>
+<circle cx='88' cy='88' r='70' fill='url(#orb)' stroke='#FACC15' stroke-opacity='0.8' stroke-width='2'/>
+<line x1='35.2' y1='122.3' x2='86.7' y2='60.0' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='29.6' y1='64.4' x2='110.2' y2='70.9' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/><line x1='73.8' y1='26.6' x2='114.7' y2='96.3' stroke='#FFFFFF' stroke-opacity='0.18' stroke-width='1.6'/>
+<circle cx='88' cy='88' r='24' fill='url(#core)'/>
+<circle cx='72' cy='67' r='9' fill='#FFFFFF' opacity='0.85'/>
 <path d='M170.7,102.6L115.0,105.2L136.2,156.8L94.9,119.2L73.4,170.7L70.8,115.0L19.2,136.2L56.8,94.9L5.3,73.4L61.0,70.8L39.8,19.2L81.1,56.8L102.6,5.3L105.2,61.0L156.8,39.8L119.2,81.1Z' fill='none' stroke='#FACC15' stroke-opacity='0.55' stroke-width='1.6'/>
-<path d='M52.0,30.0L41.6,33.6L38.0,44.0L34.4,33.6L24.0,30.0L34.4,26.4L38.0,16.0L41.6,26.4Z' fill='#FFFFFF' opacity='0.92'/><path d='M91.5,20.0L82.9,22.9L80.0,31.5L77.1,22.9L68.5,20.0L77.1,17.1L80.0,8.5L82.9,17.1Z' fill='#FFFFFF' opacity='0.74'/><path d='M131.0,30.0L124.3,32.3L122.0,39.0L119.7,32.3L113.0,30.0L119.7,27.7L122.0,21.0L124.3,27.7Z' fill='#FFFFFF' opacity='0.56'/>
+<path d='M49.0,30.0L37.8,33.8L34.0,45.0L30.2,33.8L19.0,30.0L30.2,26.2L34.0,15.0L37.8,26.2Z' fill='#FFFFFF' opacity='0.92'/><path d='M90.5,18.0L81.2,21.2L78.0,30.5L74.8,21.2L65.5,18.0L74.8,14.8L78.0,5.5L81.2,14.8Z' fill='#FFFFFF' opacity='0.74'/><path d='M132.0,30.0L124.5,32.5L122.0,40.0L119.5,32.5L112.0,30.0L119.5,27.5L122.0,20.0L124.5,27.5Z' fill='#FFFFFF' opacity='0.56'/>
 </svg>
