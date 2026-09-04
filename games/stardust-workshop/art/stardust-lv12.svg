@@ -21,6 +21,6 @@
 <circle cx='88' cy='88' r='22' fill='url(#core)' stroke='#FCDB5B' stroke-opacity='0.6' stroke-width='1.5'/>
 <circle cx='73' cy='70' r='8' fill='#FFFFFF' opacity='0.85'/>
 <circle cx='88.4' cy='12.4' r='3.5' fill='#FCE073' opacity='0.9'/><circle cx='160.3' cy='126.5' r='3.5' fill='#FCE073' opacity='0.9'/><circle cx='14.6' cy='124.8' r='3.5' fill='#FCE073' opacity='0.9'/>
-<path d='M172.7,102.9L115.0,105.2L137.3,158.4L94.9,119.2L73.1,172.7L70.8,115.0L17.6,137.3L56.8,94.9L3.3,73.1L61.0,70.8L38.7,17.6L81.1,56.8L102.9,3.3L105.2,61.0L158.4,38.7L119.2,81.1Z' fill='none' stroke='#FACC15' stroke-opacity='0.55' stroke-width='1.6'/>
+
 <path d='M51.0,30.0L39.8,33.8L36.0,45.0L32.2,33.8L21.0,30.0L32.2,26.2L36.0,15.0L39.8,26.2Z' fill='#FFFFFF' opacity='0.92'/><path d='M92.5,18.0L83.2,21.2L80.0,30.5L76.8,21.2L67.5,18.0L76.8,14.8L80.0,5.5L83.2,14.8Z' fill='#FFFFFF' opacity='0.74'/><path d='M134.0,30.0L126.5,32.5L124.0,40.0L121.5,32.5L114.0,30.0L121.5,27.5L124.0,20.0L126.5,27.5Z' fill='#FFFFFF' opacity='0.56'/>
 </svg>
