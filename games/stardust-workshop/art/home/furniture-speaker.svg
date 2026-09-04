@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='140' height='190' viewBox='0 0 140 190'><rect x='20' y='14' width='100' height='162' rx='16' fill='#13233C' stroke='#F472B6' stroke-opacity='0.6' stroke-width='2'/>
+<circle cx='70' cy='62' r='26' fill='#0F172A' stroke='#F472B6' stroke-opacity='0.6' stroke-width='2'/>
+<circle cx='70' cy='62' r='14' fill='#F472B6' opacity='0.7'/>
+<circle cx='70' cy='62' r='5' fill='#FBCFE8'/>
+<circle cx='70' cy='130' r='20' fill='#0F172A' stroke='#22D3EE' stroke-opacity='0.6' stroke-width='2'/>
+<circle cx='70' cy='130' r='9' fill='#22D3EE' opacity='0.7'/>
+<rect x='34' y='24' width='10' height='6' rx='3' fill='#22D3EE' opacity='0.8'/>
+<rect x='96' y='24' width='10' height='6' rx='3' fill='#22D3EE' opacity='0.8'/></svg>

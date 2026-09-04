@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='110' height='130' viewBox='0 0 110 130'><rect x='30' y='78' width='50' height='44' rx='8' fill='#1E3A5F' stroke='#4ADE80' stroke-opacity='0.6' stroke-width='2'/>
+<rect x='26' y='70' width='58' height='14' rx='7' fill='#25476F' stroke='#4ADE80' stroke-opacity='0.5' stroke-width='2'/>
+<ellipse cx='55' cy='46' rx='30' ry='12.6' fill='#34D399' opacity='0.85' transform='rotate(-35 55 46)'/>
+<ellipse cx='55' cy='40' rx='26' ry='10.92' fill='#4ADE80' opacity='0.8' transform='rotate(25 55 40)'/>
+<ellipse cx='40' cy='52' rx='22' ry='9.24' fill='#22C55E' opacity='0.75' transform='rotate(-80 40 52)'/>
+<ellipse cx='70' cy='52' rx='22' ry='9.24' fill='#34D399' opacity='0.75' transform='rotate(80 70 52)'/>
+<circle cx='55' cy='40' r='7' fill='#A7F3D0'/>
+<line x1='55' y1='20' x2='55' y2='42' stroke='#4ADE80' stroke-width='3' opacity='0.8'/>
+<circle cx='55' cy='18' r='6' fill='#A7F3D0'/></svg>

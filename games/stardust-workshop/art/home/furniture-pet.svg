@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='90' viewBox='0 0 120 90'><rect x='18' y='34' width='84' height='40' rx='20' fill='#1E3A5F' stroke='#22D3EE' stroke-opacity='0.7' stroke-width='2'/>
+<circle cx='86' cy='36' r='18' fill='#25476F' stroke='#22D3EE' stroke-opacity='0.7' stroke-width='2'/>
+<circle cx='92' cy='32' r='4' fill='#22D3EE'/>
+<circle cx='80' cy='32' r='4' fill='#22D3EE'/>
+<line x1='86' y1='18' x2='92' y2='8' stroke='#22D3EE' stroke-width='3'/>
+<line x1='74' y1='20' x2='70' y2='10' stroke='#22D3EE' stroke-width='3'/>
+<rect x='30' y='66' width='14' height='14' rx='5' fill='#0F172A'/>
+<rect x='76' y='66' width='14' height='14' rx='5' fill='#0F172A'/>
+<circle cx='38' cy='54' r='5' fill='#22D3EE' opacity='0.9'/></svg>
