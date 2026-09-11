@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='220' height='240' viewBox='0 0 220 240'><ellipse cx='110' cy='222' rx='66' ry='10' fill='#3F4A44' opacity='0.3'/>
+<circle cx='110' cy='70' r='26' fill='#E8D5B5' stroke='#B08D57' stroke-opacity='0.6' stroke-width='2'/>
+<path d='M96 62 Q110 40 126 62 L126 52 Q110 34 96 52 Z' fill='#4A3A2A'/>
+<rect x='84' y='96' width='52' height='76' rx='16' fill='#5C7059' stroke='#4E8A5A' stroke-opacity='0.6' stroke-width='2'/>
+<path d='M92 96 Q110 88 128 96 L124 130 L96 130 Z' fill='#7A8F6F'/>
+<rect x='88' y='168' width='16' height='40' rx='6' fill='#4A4238'/>
+<rect x='116' y='168' width='16' height='40' rx='6' fill='#4A4238'/>
+<circle cx='160' cy='120' r='12' fill='#FDE047' opacity='0.85'/>
+<line x1='160' y1='108' x2='160' y2='96' stroke='#B08D57' stroke-width='2'/>
+<circle cx='60' cy='100' r='16' fill='#C9A86A' opacity='0.25'/>
+<circle cx='160' cy='70' r='20' fill='#FDE047' opacity='0.15'/></svg>

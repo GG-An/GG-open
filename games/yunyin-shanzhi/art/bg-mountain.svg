@@ -1,0 +1,22 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1280' height='720' viewBox='0 0 1280 720'><defs>
+<linearGradient id='sky' x1='0' y1='0' x2='0' y2='1'>
+<stop offset='0%' stop-color='#F4F1E8'/>
+<stop offset='60%' stop-color='#E8ECE4'/>
+<stop offset='100%' stop-color='#DCE3DA'/>
+</linearGradient>
+<radialGradient id='moon' cx='50%' cy='50%' r='50%'>
+<stop offset='0%' stop-color='#FFF9E8'/>
+<stop offset='80%' stop-color='#F7EFC9'/>
+</radialGradient>
+</defs>
+<rect width='1280' height='720' fill='url(#sky)'/>
+<circle cx='1050' cy='120' r='52' fill='url(#moon)'/>
+<circle cx='1050' cy='120' r='40' fill='#F7EFC9' opacity='0.9'/>
+<path d='M0 430 Q75 356 150 430 Q217 347 284 430 Q353 299 423 430 Q479 368 535 430 Q580 346 625 430 Q693 303 760 430 Q834 351 908 430 Q987 313 1066 430 Q1120 329 1173 430 Q1291 360 1409 430 L1280 720 L0 720 Z' fill='#B9C6BD' opacity='0.5'/>
+<ellipse cx='712' cy='300' rx='290' ry='31' fill='#E8ECE4' opacity='0.17'/><ellipse cx='966' cy='360' rx='192' ry='24' fill='#E8ECE4' opacity='0.23'/><ellipse cx='440' cy='420' rx='188' ry='29' fill='#E8ECE4' opacity='0.17'/><ellipse cx='294' cy='480' rx='227' ry='19' fill='#E8ECE4' opacity='0.22'/><ellipse cx='416' cy='540' rx='227' ry='28' fill='#E8ECE4' opacity='0.16'/><ellipse cx='425' cy='600' rx='399' ry='21' fill='#E8ECE4' opacity='0.19'/>
+<path d='M0 490 Q64 367 128 490 Q248 313 367 490 Q417 412 467 490 Q546 303 625 490 Q739 320 852 490 Q906 392 959 490 Q1027 358 1096 490 Q1177 303 1258 490 Q1332 393 1405 490 L1280 720 L0 720 Z' fill='#93A698' opacity='0.65'/>
+<path d='M0 560 Q102 412 203 560 Q255 438 307 560 Q390 368 473 560 Q545 423 617 560 Q726 361 835 560 Q953 371 1071 560 Q1174 372 1278 560 Q1339 358 1399 560 L1280 720 L0 720 Z' fill='#6F8577' opacity='0.8'/>
+<path d='M881.3657270843935 172.6506444079106 q6 -6 12 0 M893.3657270843935 172.6506444079106 q6 -6 12 0' stroke='#3F4A44' stroke-width='1.6' fill='none' opacity='0.7'/><path d='M922.2300939588947 169.13500286598457 q6 -6 12 0 M934.2300939588947 169.13500286598457 q6 -6 12 0' stroke='#3F4A44' stroke-width='1.6' fill='none' opacity='0.7'/><path d='M948.3321947671158 169.18470548427882 q6 -6 12 0 M960.3321947671158 169.18470548427882 q6 -6 12 0' stroke='#3F4A44' stroke-width='1.6' fill='none' opacity='0.7'/><path d='M991.5575123790454 168.66332769331677 q6 -6 12 0 M1003.5575123790454 168.66332769331677 q6 -6 12 0' stroke='#3F4A44' stroke-width='1.6' fill='none' opacity='0.7'/><path d='M1025.0914235958323 207.3382509301129 q6 -6 12 0 M1037.0914235958323 207.3382509301129 q6 -6 12 0' stroke='#3F4A44' stroke-width='1.6' fill='none' opacity='0.7'/>
+<rect x='0' y='560' width='1280' height='160' fill='#4E6152' opacity='0.9'/>
+<path d='M0 570 Q640 545 1280 570 L1280 720 L0 720 Z' fill='#5C7059'/>
+<ellipse cx='712' cy='300' rx='290' ry='31' fill='#E8ECE4' opacity='0.17'/><ellipse cx='966' cy='360' rx='192' ry='24' fill='#E8ECE4' opacity='0.23'/><ellipse cx='440' cy='420' rx='188' ry='29' fill='#E8ECE4' opacity='0.17'/><ellipse cx='294' cy='480' rx='227' ry='19' fill='#E8ECE4' opacity='0.22'/><ellipse cx='416' cy='540' rx='227' ry='28' fill='#E8ECE4' opacity='0.16'/><ellipse cx='425' cy='600' rx='399' ry='21' fill='#E8ECE4' opacity='0.19'/></svg>

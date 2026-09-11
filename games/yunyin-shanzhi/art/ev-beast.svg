@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='220' height='240' viewBox='0 0 220 240'><ellipse cx='110' cy='222' rx='72' ry='10' fill='#3F4A44' opacity='0.3'/>
+<path d='M55 190 Q45 120 85 96 Q125 74 158 100 Q185 122 172 165 Q160 200 110 196 Q70 194 55 190 Z' fill='#8FBF8F' stroke='#4E8A5A' stroke-opacity='0.7' stroke-width='2.5'/>
+<circle cx='150' cy='88' r='30' fill='#9FCF9F' stroke='#4E8A5A' stroke-opacity='0.7' stroke-width='2.5'/>
+<path d='M138 62 L130 30 L152 52 Z' fill='#E8ECE4' stroke='#4E8A5A' stroke-opacity='0.5' stroke-width='1.5'/>
+<path d='M162 60 L176 28 L182 58 Z' fill='#E8ECE4' stroke='#4E8A5A' stroke-opacity='0.5' stroke-width='1.5'/>
+<circle cx='158' cy='86' r='4.5' fill='#1F2A22'/>
+<circle cx='144' cy='82' r='3' fill='#FDE047' opacity='0.9'/>
+<path d='M60 130 Q30 120 34 92' fill='none' stroke='#8FBF8F' stroke-width='9' stroke-linecap='round'/>
+<circle cx='32' cy='88' r='7' fill='#FDE047' opacity='0.9'/>
+<rect x='78' y='192' width='14' height='26' rx='5' fill='#7FAF7F'/>
+<rect x='138' y='192' width='14' height='26' rx='5' fill='#7FAF7F'/>
+<circle cx='105' cy='140' r='20' fill='#4E8A5A' opacity='0.35'/></svg>
