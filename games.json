@@ -12,6 +12,18 @@
       "path": "games/stardust-workshop/",
       "saveKey": "stardust-workshop-save-v1",
       "version": "v1.0.2"
+    },
+    {
+      "id": "yunyin-shanzhi",
+      "title": "云隐山志",
+      "en": "Yunyin Mountain Chronicle",
+      "genre": "修仙养成 · 放置",
+      "desc": "穿越世外之境，每日签到修行，打理与拓展你的仙家山头。灵兽、祈愿与访客，皆是机缘。",
+      "emoji": "⛩️",
+      "color": "#4ade80",
+      "path": "games/yunyin-shanzhi/",
+      "saveKey": "yunyin-shanzhi-save-v1",
+      "version": "v0.1.0"
     }
   ],
   "upcoming": [
