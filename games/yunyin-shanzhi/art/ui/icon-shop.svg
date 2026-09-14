@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 96 96'><defs>
+      <radialGradient id='ig-shop' cx='0.5' cy='0.35' r='0.8'>
+        <stop offset='0' stop-color='#2c453a'/><stop offset='1' stop-color='#152219'/>
+      </radialGradient>
+    </defs>
+    <circle cx='48' cy='48' r='44' fill='url(#ig-shop)' stroke='#d4af37' stroke-width='2.6'/>
+    <circle cx='48' cy='48' r='38' fill='none' stroke='#d4af37' stroke-width='1' opacity='0.4'/>
+    <path d='M36 40 Q30 52 30 62 Q30 76 48 76 Q66 76 66 62 Q66 52 60 40 Z' fill='none' stroke='#f0e6c8' stroke-width='3'/>
+     <path d='M40 40 L38 30 L58 30 L56 40' fill='none' stroke='#f0e6c8' stroke-width='2.6'/>
+     <circle cx='48' cy='58' r='9' fill='none' stroke='#d4af37' stroke-width='2.4'/>
+     <rect x='45' y='55' width='6' height='6' fill='none' stroke='#d4af37' stroke-width='1.8'/></svg>

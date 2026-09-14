@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 96 96'><defs>
+      <radialGradient id='ig-task' cx='0.5' cy='0.35' r='0.8'>
+        <stop offset='0' stop-color='#2c453a'/><stop offset='1' stop-color='#152219'/>
+      </radialGradient>
+    </defs>
+    <circle cx='48' cy='48' r='44' fill='url(#ig-task)' stroke='#d4af37' stroke-width='2.6'/>
+    <circle cx='48' cy='48' r='38' fill='none' stroke='#d4af37' stroke-width='1' opacity='0.4'/>
+    <rect x='30' y='28' width='36' height='40' rx='3' fill='none' stroke='#f0e6c8' stroke-width='2.8'/>
+     <rect x='20' y='26' width='10' height='44' rx='5' fill='#2e5e48' stroke='#d4af37' stroke-width='2'/>
+     <rect x='66' y='26' width='10' height='44' rx='5' fill='#2e5e48' stroke='#d4af37' stroke-width='2'/>
+     <path d='M38 40 L58 40 M38 50 L58 50 M38 60 L52 60' stroke='#f0e6c8' stroke-width='2' opacity='0.8'/></svg>

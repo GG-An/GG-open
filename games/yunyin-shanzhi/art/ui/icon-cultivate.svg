@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 96 96'><defs>
+      <radialGradient id='ig-cult' cx='0.5' cy='0.35' r='0.8'>
+        <stop offset='0' stop-color='#2c453a'/><stop offset='1' stop-color='#152219'/>
+      </radialGradient>
+    </defs>
+    <circle cx='48' cy='48' r='44' fill='url(#ig-cult)' stroke='#d4af37' stroke-width='2.6'/>
+    <circle cx='48' cy='48' r='38' fill='none' stroke='#d4af37' stroke-width='1' opacity='0.4'/>
+    <circle cx='48' cy='34' r='9' fill='none' stroke='#f0e6c8' stroke-width='3'/>
+     <path d='M30 66 Q30 48 48 48 Q66 48 66 66' stroke='#f0e6c8' stroke-width='3' fill='none'/>
+     <path d='M28 66 Q48 58 68 66' stroke='#f0e6c8' stroke-width='3' fill='none'/>
+     <path d='M20 70 Q48 62 76 70' stroke='#d4af37' stroke-width='2' fill='none' opacity='0.7'/></svg>

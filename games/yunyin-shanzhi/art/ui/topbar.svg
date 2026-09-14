@@ -1,0 +1,25 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1280' height='64' viewBox='0 0 1280 64'><defs>
+      <linearGradient id='tb' x1='0' y1='0' x2='0' y2='1'>
+        <stop offset='0' stop-color='#1b2a20'/><stop offset='0.5' stop-color='#121c14'/><stop offset='1' stop-color='#0c130d'/>
+      </linearGradient>
+      <linearGradient id='tbg' x1='0' y1='0' x2='1' y2='0'>
+        <stop offset='0' stop-color='#8f6b1f'/><stop offset='0.5' stop-color='#f5e3a8'/><stop offset='1' stop-color='#8f6b1f'/>
+      </linearGradient>
+    </defs>
+    <rect width='1280' height='64' fill='url(#tb)'/>
+    <rect y='62' width='1280' height='2' fill='url(#tbg)'/>
+    <rect y='0' width='1280' height='1.5' fill='#d4af37' opacity='0.55'/>
+    <path d='M0 10 Q160 4 320 10 T640 10 T960 10 T1280 10' stroke='#d4af37' stroke-width='0.8' fill='none' opacity='0.28'/>
+    <path d='M0 54 Q160 60 320 54 T640 54 T960 54 T1280 54' stroke='#d4af37' stroke-width='0.8' fill='none' opacity='0.28'/>
+    <g opacity='0.5'>
+      <circle cx='26' cy='32' r='3.2' fill='none' stroke='#d4af37' stroke-width='1.2'/>
+      <circle cx='40' cy='32' r='3.2' fill='none' stroke='#d4af37' stroke-width='1.2'/>
+      <circle cx='33' cy='25' r='3.2' fill='none' stroke='#d4af37' stroke-width='1.2'/>
+      <circle cx='33' cy='39' r='3.2' fill='none' stroke='#d4af37' stroke-width='1.2'/>
+      <g transform='translate(1254,32)'>
+        <circle cx='0' cy='0' r='3.2' fill='none' stroke='#d4af37' stroke-width='1.2'/>
+        <circle cx='-14' cy='0' r='3.2' fill='none' stroke='#d4af37' stroke-width='1.2'/>
+        <circle cx='-7' cy='-7' r='3.2' fill='none' stroke='#d4af37' stroke-width='1.2'/>
+        <circle cx='-7' cy='7' r='3.2' fill='none' stroke='#d4af37' stroke-width='1.2'/>
+      </g>
+    </g></svg>

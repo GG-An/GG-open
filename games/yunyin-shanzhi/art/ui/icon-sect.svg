@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 96 96'><defs>
+      <radialGradient id='ig-sect' cx='0.5' cy='0.35' r='0.8'>
+        <stop offset='0' stop-color='#2c453a'/><stop offset='1' stop-color='#152219'/>
+      </radialGradient>
+    </defs>
+    <circle cx='48' cy='48' r='44' fill='url(#ig-sect)' stroke='#d4af37' stroke-width='2.6'/>
+    <circle cx='48' cy='48' r='38' fill='none' stroke='#d4af37' stroke-width='1' opacity='0.4'/>
+    <path d='M20 30 L48 20 L76 30' stroke='#f0e6c8' stroke-width='3' fill='none'/>
+     <line x1='24' y1='38' x2='72' y2='38' stroke='#f0e6c8' stroke-width='3'/>
+     <line x1='32' y1='38' x2='32' y2='74' stroke='#f0e6c8' stroke-width='3'/>
+     <line x1='64' y1='38' x2='64' y2='74' stroke='#f0e6c8' stroke-width='3'/>
+     <line x1='26' y1='52' x2='70' y2='52' stroke='#d4af37' stroke-width='2' opacity='0.75'/></svg>

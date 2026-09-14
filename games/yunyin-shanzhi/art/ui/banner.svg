@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='320' height='48' viewBox='0 0 320 48'><defs>
+      <linearGradient id='bn' x1='0' y1='0' x2='0' y2='1'>
+        <stop offset='0' stop-color='#243528'/><stop offset='1' stop-color='#141f17'/>
+      </linearGradient>
+      <linearGradient id='bng' x1='0' y1='0' x2='1' y2='0'>
+        <stop offset='0' stop-color='#8f6b1f'/><stop offset='0.5' stop-color='#f5e3a8'/><stop offset='1' stop-color='#8f6b1f'/>
+      </linearGradient>
+    </defs>
+    <path d='M10 38 L6 24 L10 10 L24 10 L24 38 Z' fill='#1a271f' stroke='url(#bng)' stroke-width='1.6'/>
+    <path d='M310 38 L314 24 L310 10 L296 10 L296 38 Z' fill='#1a271f' stroke='url(#bng)' stroke-width='1.6'/>
+    <path d='M20 8 L300 8 Q310 8 310 24 Q310 40 300 40 L20 40 Q10 40 10 24 Q10 8 20 8 Z' fill='url(#bn)' stroke='url(#bng)' stroke-width='2'/>
+    <path d='M40 24 L280 24' stroke='#d4af37' stroke-width='0.8' opacity='0.35'/>
+    <circle cx='24' cy='24' r='2.4' fill='#f5e3a8' opacity='0.8'/>
+    <circle cx='296' cy='24' r='2.4' fill='#f5e3a8' opacity='0.8'/></svg>
